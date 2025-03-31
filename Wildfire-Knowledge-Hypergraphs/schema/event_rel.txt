@@ -1,0 +1,6 @@
+Many-to-one causation: Multiple causes working together to ultimately lead to the same result. Commonly found in complex disaster scenarios where multiple factors contribute to an event.
+One-to-many causation: a single cause leads to multiple different outcomes. Commonly found in scenarios where a single event leads to multiple consequences.
+One-to-one causation: a single cause leads to a single effect. Often used to describe simple, direct chains of cause and effect.
+Role: describes the function or role of an event, revealing its effect on other events.
+Dependent: describes the existence or function of an event as dependent on the support or conditions of other events.
+Chronological order: describes the sequence between two or more events. It determines whether one event must occur before or after another in time.

@@ -1,0 +1,6 @@
+Pre-disaster monitoring phase: Fire risks are assessed before the outbreak of a fire by means of meteorological monitoring, fire source monitoring, etc., and early warnings are issued.
+Pre-disaster facility deployment stage: In order to respond to fire incidents, monitoring equipment, rescue resources, command facilities, etc. are deployed in advance to ensure rapid response after a fire breaks out.
+In-disaster assessment phase: After a fire, quickly assess the situation, scale of the fire, resource needs, etc., to provide data support for subsequent dispatching.
+Dispatch phase: Depending on the assessment of the disaster situation, resources, personnel and equipment are deployed to coordinate rescue operations and fire-fighting work.
+Post-disaster rehabilitation stage: after the fire is extinguished, carry out post-disaster assessment, restore infrastructure, psychological counselling, and resettle the victims.
+Post-disaster summary stage: Summarise the lessons learnt during the fire emergency response process, improve the emergency plan and measures, and provide a basis for future fire emergency preparedness.

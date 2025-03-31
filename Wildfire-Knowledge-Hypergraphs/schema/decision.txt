@@ -1,0 +1,5 @@
+Pre-disaster emergency response tasks: Various types of tasks, such as risk assessment, resource reserves, training exercises, etc., that are organised prior to the occurrence of a fire in order to prevent a disaster and improve emergency response capabilities.
+Emergency Response Tasks during Disaster: Emergency response tasks carried out when a fire occurs, including fire fighting, personnel rescue, evacuation, resource dispatch, etc., aiming at controlling the fire and protecting life and property.
+Post-disaster emergency response tasks: the recovery tasks after the fire is extinguished, focusing on post-disaster assessment, infrastructure restoration, disaster relief, etc., aiming at restoring the order of the disaster area and people's livelihood.
+GIS model: A decision support tool based on geographic information systems, providing support for fire monitoring, risk assessment, and resource scheduling by means of spatial analysis and heat maps.
+Statistical analysis model: uses data analysis techniques to predict fire risk, spread rate, etc., optimise resource allocation and emergency decision-making, and help decision-makers make precise decisions.

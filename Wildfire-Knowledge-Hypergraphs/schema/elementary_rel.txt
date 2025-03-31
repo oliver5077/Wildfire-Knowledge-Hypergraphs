@@ -1,0 +1,9 @@
+Containment: Describes the hierarchical structure or compositional relationship between elements, where one entity acts as an integral part of another.
+Dependent: describes the support or conditions under which the existence or function of an element depends on other elements.
+Component: describes how a whole is made up of multiple parts or subsystems that work together to achieve an overall goal.
+Role: describes the function or role of an element and reveals its impact on other elements.
+Chronological order: describes the sequence between elements. It determines whether one element must occur before or after another in time.
+Duration: describes the duration or duration period of the elements. It helps us understand how long a task will take to complete.
+Neighbourhood: describes the spatial proximity or contact between two entities or areas. It is used to consider collaboration and resource deployment in adjacent areas when planning emergency response.
+Distance: Describes the physical distance between two entities. Used to assess response times, resource allocation and evacuation paths to help decision makers optimise the deployment of emergency resources.
+Orientation: describes the directionality or angle in space. It helps to determine the specific direction of an emergency response task, such as the direction of the wind for fire spread, the direction of travel for rescue teams, etc.

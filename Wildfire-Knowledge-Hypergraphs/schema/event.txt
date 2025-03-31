@@ -1,0 +1,3 @@
+Fire events: events directly related to the process of fire occurrence, spread, and suppression, such as fire outbreak, fire spread, and fire re-ignition.
+Natural events: events caused by natural factors or related to natural environmental conditions, such as lightning strikes, droughts, high temperatures, strong winds, etc.
+Man-made events: are all events caused by human activities or human factors. This category includes not only the occurrence of fires (e.g. arson or industrial accidents), but also events closely related to human behaviour, such as actions, decision-making, rescue and post-disaster recovery during the emergency response process.

@@ -1,0 +1,3 @@
+Role: describes the function or role of a stage and reveals its impact on other stages.
+Dependency: describes the support or conditions under which the existence or function of a stage depends on other stages
+Chronological order: describes the sequence between two or more phases. It determines whether one stage must occur before or after another in time.

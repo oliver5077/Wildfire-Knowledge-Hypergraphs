@@ -1,0 +1,4 @@
+Contingency Task-Model Invocation Relationship: describes which models need to be invoked to provide support during the execution of a contingency task.
+Input Relationship: describes the data, information, or resources required for the execution of a contingency model. These inputs typically come from sensors, historical data, expert judgement, etc.
+Output Relationships: describes the model outputs that are the basis for subsequent decisions and actions.
+Causal Relationships: describes the chain of cause and effect between contingency tasks, helping us to understand how one contingency task affects the occurrence of other tasks.

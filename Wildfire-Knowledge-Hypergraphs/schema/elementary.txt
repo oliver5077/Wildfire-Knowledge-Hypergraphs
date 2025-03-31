@@ -1,0 +1,7 @@
+Fire element: characteristics and attributes associated with the fire itself, such as the source of the fire and the type of fire.
+Personnel element: people involved in the fire emergency response process, including firefighters, commanders, volunteers, etc.
+Place Element: Locations involved in fire occurrence, resource dispatch, and evacuation of personnel, such as the place of fire occurrence, evacuation area, etc.
+Time element: involves the time point and time period of fire occurrence, resource dispatch, personnel evacuation, etc.
+Equipment elements: various tools, vehicles and equipment used in fire emergency response, such as fire extinguishers, fire trucks, helicopters, etc.
+Environmental elements: natural factors that affect the spread of fire, such as temperature, humidity, wind speed, etc.
+Resource elements: various materials, equipment, tools, and human resources that support fire emergency response, such as water, fuel, and medical resources.
